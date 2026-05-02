@@ -1,82 +1,124 @@
-# Hi there, I'm Gaoshan Zeng (曾高山) 👋
+<p align="right">
+  <img src="./assets/profile.jpg" width="132" alt="Gaoshan Zeng" />
+</p>
 
-> **Aspiring Ph.D. Student (Fall 2027)** | **AI + Science & Physics of AI**
+# Gaoshan Zeng / 曾高山
 
-I am a third-year undergraduate student in **Electronic Science and Technology** at **Sichuan Agricultural University (SICAU)**.
-I am passionate about bridging the gap between **First-Principles Physics** and **Artificial Intelligence**. My goal is to build AI Scientists and understand the underlying physics of neural networks.
+**AI for Science builder | Materials informatics | Scientific computing | Open-source developer**
 
-- 🏆 **Rank:** 2/147 (Top 1.5%) | [cite_start]**GPA:** 4.25/5.0 [cite: 6]
-- [cite_start]💻 **Coding:** 200k+ lines of code contribution (Python/Matlab/Julia) 
-- 🔬 **Interests:** AI for Science (Materials), AI Agents, Physics of AI, Diffusion Models
-- [cite_start]📫 **Contact:** zenggaoshan05@gmail.com [cite: 2]
+I am an undergraduate student in **Electronic Science and Technology** at **Sichuan Agricultural University**, ranked **2/147** with a **4.22/5.0 GPA**. My work sits at the intersection of **AI4S, materials science, first-principles simulation, and AI agents**.
 
----
+I am especially interested in building AI systems that can close the loop between **domain knowledge, simulation, experiment, and autonomous discovery**.
 
-### 🔥 News & Updates
-- **[2026.02]** Seeking Ph.D. opportunities for Fall 2027!
-- **[2026.02]** One paper accepted by **Inorganic Chemistry (JCR Q1)**!
-- **[2025.09]** Research Intern at **DeepModeling (深势科技)**, working on AI Scientist Agents.
+- Email: [zenggaoshan05@gmail.com](mailto:zenggaoshan05@gmail.com)
+- GitHub: [github.com/zenggs05](https://github.com/zenggs05)
+- Research interests: AI4S, AI Scientist agents, ML potentials, materials informatics, DFT/MD, high-entropy materials, electrolyte modeling, microwave absorption, electrochemical sensing
+- Current direction: building reliable AI-assisted workflows for scientific discovery and developer productivity
 
 ---
 
-### 📝 Selected Publications
+## Project Experience
 
-I have **4 papers published/online** in top-tier journals.
+### AI4S and Scientific Computing
 
-1. **Combustion-Driven Lattice Reconstruction Activates Electron Spin and Densifies Electronic States for Synergistic Broadband Microwave Absorption**, *Advanced Functional Materials* . [Link](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202528574)
-2. **Geometry-defect-spin coupling in chiral high-entropy systems**, *Science Advances*, 2025. [Link](https://www.science.org/doi/abs/10.1126/sciadv.adz2218)
-3. **2D-confined multicore nanoengineering**, *Chemical Engineering Journal*, 2025. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1385894725123279)
-4. **Band-Engineered a-Fe2O3@NiO P-N Heterojunction**, *Nanomaterials*, 2025. [Link](https://www.mdpi.com/2079-4991/15/13/987)
----
+**Million-scale high-fidelity electrolyte MLIP dataset and structure-property analysis**  
+*Peking University Shenzhen Graduate School, visiting research assistant, 2026.04 - present*
 
-### 🏫 Research Experience
+- Designing an adaptive data-generation workflow for electrolyte machine-learning interatomic potentials.
+- Combining generative priors, active sampling, multi-fidelity quantum labeling, and physics-guided reduction.
+- Exploring how to reduce labeling cost while preserving high-information-density configurations for downstream MLIP training.
 
-- **DeepModeling (深势科技) | Research Intern**
-  *Topic: AI Scientist Agents for Materials*
-  - Led the development of intelligent agents for autonomous material discovery.
+**Machine learning for high-entropy materials**  
+*KAUST, visiting student / research assistant, 2025.09 - 2026.03*
 
-- **KAUST | [cite_start]Research Assistant** [cite: 48]
-  *Topic: Machine Learning for High-Entropy Materials*
-  - [cite_start]Developed ALIGNN & Feature Engineering models for predicting material properties (formation enthalpy, magnetic moments). [cite: 51]
-  - [cite_start]Addressed data scarcity in high-entropy alloys using Transfer Learning. [cite: 52]
+- Built ML workflows for high-entropy alloys and oxides using ALIGNN, composition-based feature vectors, and JARVIS-DFT data.
+- Focused on formation enthalpy, total energy, magnetic moments, and generalization under sparse high-fidelity data.
+- Worked on accelerating candidate screening in large composition spaces.
 
-- **Westlake University | [cite_start]Research Assistant** [cite: 41]
-  *Topic: Electronic Structure of MoS2 Nanotubes via DeepH*
-  - [cite_start]Integrated **DeepH** framework with VASP/OpenMX for automated electronic structure workflows. [cite: 44]
-  - [cite_start]Analyzed chirality-dependent electronic properties and bandgaps. [cite: 46]
+**Electronic-structure atlas of MoS2 nanotubes with DeepH and first-principles workflows**  
+*Westlake University, research assistant, 2025.07 - 2025.09*
 
----
+- Integrated VASP, OpenMX, ABACUS, Quantum ESPRESSO, CHGNet, and DeepH into automated electronic-structure workflows.
+- Studied chirality-dependent bandgaps, effective masses, and direct/indirect bandgap transitions.
+- Compared DeepH predictions with DFT-level calculations to evaluate accuracy and computational efficiency.
 
-### 🛠️ Skills & Tech Stack
+**AI Scientist agents for materials discovery**  
+*DeepModeling / AI4S exploration*
 
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Matlab](https://img.shields.io/badge/-Matlab-e16737?style=flat&logo=mathworks&logoColor=white)
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+- Working on agentic workflows for literature understanding, hypothesis generation, simulation planning, and materials-design feedback loops.
+- Interested in making scientific agents more reproducible, tool-aware, and grounded in physical constraints.
 
-**AI & Data Science**
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+### Open-source Developer Tools
 
-**Scientific Computing & Simulation**
-![VASP](https://img.shields.io/badge/-VASP-00599C?style=flat)
-![Quantum ESPRESSO](https://img.shields.io/badge/-Quantum_ESPRESSO-000000?style=flat)
-![COMSOL](https://img.shields.io/badge/-COMSOL-005F9E?style=flat)
-![CST](https://img.shields.io/badge/-CST_Studio-E31937?style=flat)
+I also build small, focused tools for AI-native development workflows:
+
+- [docs-drift-radar](https://github.com/zenggs05/docs-drift-radar): catch stale README snippets, CLI help, and OpenAPI docs in CI.
+- [pr-evidence-pack](https://github.com/zenggs05/pr-evidence-pack): turn a PR diff into a reviewer-ready evidence pack.
+- [browser-skill-forge](https://github.com/zenggs05/browser-skill-forge): record browser workflows and export Playwright / agent skills.
+- [Auto_PaperFetcher](https://github.com/zenggs05/Auto_PaperFetcher): automate paper fetching and research-workflow collection.
+- [vscode-remote-ssh-proxy-codex](https://github.com/zenggs05/vscode-remote-ssh-proxy-codex): improve remote SSH / proxy workflows for coding agents.
 
 ---
 
-### 🎖️ Honors
-- [cite_start]**Meritorious Winner**, The Mathematical Contest in Modeling (MCM) [cite: 70]
-- [cite_start]**Third Prize**, Asia and Pacific Mathematical Contest in Modeling (APMCM) [cite: 70]
-- [cite_start]**Academic Excellence Scholarship** at SICAU [cite: 6]
+## Skills
+
+**Programming and engineering**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+**AI and data science**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+- Graph neural networks, ALIGNN, ML potentials, diffusion models, reinforcement learning, LSTM/SVR pipelines
+- Computer vision for sensing and inspection: U-Net style models, MobileViT-style lightweight models
+- Scientific data pipelines: feature engineering, active learning, uncertainty/OOD sampling, benchmark evaluation
+
+**Scientific computing and simulation**
+
+- First-principles and electronic structure: VASP, CP2K, Quantum ESPRESSO, Materials Studio, OpenMX, ABACUS, DeepH
+- Molecular dynamics and chemistry simulation: GROMACS, Gaussian, LAMMPS
+- Multiphysics and electromagnetic simulation: COMSOL, CST Studio Suite
+- Data analysis and research tooling: Origin, SPSS, Python scientific stack, Linux HPC workflows
 
 ---
+
+## Selected Publications
+
+1. **G. Zeng**, H. Huang, et al. *Machine-Learning and Atomic-Scale Mechanistic Insights for Designing Gradient Porous MOF-Derived Carbon Electrodes*. **Inorganic Chemistry**, 2025.  
+   First-author work combining ML, DFT/MD, and interpretable design rules for MOF-derived carbon electrodes.
+
+2. N. Wang, X. Kou, **G. Zeng**, et al. *Geometry-defect-spin coupling in chiral high-entropy systems: Multiscale mechanisms of GHz electromagnetic dissipation*. **Science Advances**, 2025.  
+   Multiscale study of chiral high-entropy systems for broadband electromagnetic dissipation.
+
+---
+
+## Honors
+
+- Meritorious Winner, The Mathematical Contest in Modeling
+- Third Prize, Asia and Pacific Mathematical Contest in Modeling
+- Academic Excellence Scholarship, Sichuan Agricultural University
+- 20+ awards across national, provincial, and university-level competitions
+
+---
+
+## What I Am Building Toward
+
+I want to keep working on systems that make scientific discovery more programmable:
+
+- AI agents that can read papers, call tools, run simulations, and report evidence.
+- ML potential and materials-informatics workflows that scale from small datasets to real discovery loops.
+- Open-source developer tools that make research and engineering workflows easier to reproduce.
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zenggs05&show_icons=true&theme=minimal" alt="Gaoshan's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenggs05&layout=compact&theme=minimal" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zenggs05&show_icons=true&theme=minimal" alt="Gaoshan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenggs05&layout=compact&theme=minimal" alt="Top languages" />
 </div>
