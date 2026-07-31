@@ -1,20 +1,25 @@
-<p align="right">
-  <img src="./assets/profile.jpg" width="132" alt="Gaoshan Zeng" />
-</p>
-
-# Gaoshan Zeng / 曾高山
-
-**AI for Science builder | First-principles simulation | Materials informatics | Open-source developer**
-
-I am an undergraduate student in **Electronic Science and Technology** at **Sichuan Agricultural University**, ranked **2/147** with a **4.22/5.0 GPA**. My work sits at the intersection of **AI4S, materials science, first-principles simulation, finite-element / electromagnetic simulation, chemical experiments, and AI agents**.
-
-I am especially interested in building AI systems that can close the loop between **domain knowledge, simulation, experiment, and autonomous discovery**.
-
-- Email: [zenggaoshan05@gmail.com](mailto:zenggaoshan05@gmail.com)
-- GitHub: [github.com/zenggs05](https://github.com/zenggs05)
-- Research interests: AI4S, AI Scientist agents, ML potentials, materials informatics, DFT/MD, high-entropy materials, microwave absorption, electrochemical sensing, high-throughput screening
-- Current direction: reliable AI-assisted workflows for scientific discovery, simulation automation, and developer productivity
-- Public writing: WeChat public account **飞鸟想要飞**, with 500k+ total views
+<table>
+  <tr>
+    <td valign="top">
+      <h1>Gaoshan Zeng / 曾高山</h1>
+      <p><strong>AI for Science builder | First-principles simulation | Materials informatics | Open-source developer</strong></p>
+      <p>I am an undergraduate student in <strong>Electronic Science and Technology</strong> at <strong>Sichuan Agricultural University</strong> with a <strong>4.22/5.0 GPA</strong>. My work sits at the intersection of <strong>AI4S, materials science, first-principles simulation, finite-element / electromagnetic simulation, chemical experiments, and AI agents</strong>.</p>
+      <p>I am especially interested in building systems that close the loop between <strong>domain knowledge, simulation, experiment, and autonomous discovery</strong>.</p>
+      <p>
+        <a href="mailto:zenggaoshan05@gmail.com"><img src="https://img.shields.io/badge/Email-zenggaoshan05%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+        <a href="https://github.com/zenggs05"><img src="https://img.shields.io/badge/GitHub-zenggs05-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+        <img src="https://img.shields.io/badge/Focus-AI4S%20%7C%20Scientific%20Computing-2F80ED?style=flat" alt="Focus" />
+      </p>
+      <p><strong>Research interests:</strong> AI4S, AI Scientist agents, ML potentials, materials informatics, DFT/MD, high-entropy materials, microwave absorption, electrochemical sensing, and high-throughput screening.</p>
+      <p><strong>Public writing:</strong> WeChat public account <strong>飞鸟想要飞</strong>, with 500k+ total views.</p>
+    </td>
+    <td width="250" align="center">
+      <img src="./assets/profile.jpg" width="220" alt="Gaoshan Zeng cycling at Zongla Mountain" />
+      <br />
+      <sub>Solo cycling at Zongla Mountain, 4,150 m</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -62,6 +67,35 @@ I am especially interested in building AI systems that can close the loop betwee
 - Developing an autonomous LLM-agent-guided framework for multi-scale reverse design of high-entropy microwave absorption materials.
 - Combining domain reasoning, conditional diffusion / reinforcement-learning style generation, ALIGNN-based stability evaluation, and CST-based electromagnetic simulation.
 - Goal: accelerate the discovery of high-performance, ultra-broadband microwave absorbers with physics-aware constraints.
+
+### Applied AI, Sensing, and Materials Projects
+
+**Machine-learning-integrated electrochemical sensing for farmland heavy metals**<br />
+*Provincial Undergraduate Innovation and Entrepreneurship Training Program, project lead, 2024.12 - 2025.09*
+
+- Led the design of an electrochemical sensing and machine-learning integration platform for Pb<sup>2+</sup> and Cd<sup>2+</sup> detection.
+- Built a PAC-SVR-LSTM pipeline with PCA and wavelet denoising for classification, concentration regression, and dynamic interference compensation.
+- Achieved a 0.8 nM detection limit, 98.2% identification accuracy, and an R<sup>2</sup> above 0.995 for concentration quantification; the project resulted in two software copyrights.
+
+**Composite nanofiber and machine-learning heavy-metal sensing platform**<br />
+*National Undergraduate Innovation and Entrepreneurship Training Program, core member, 2024.06 - 2025.09*
+
+- Prepared composite nanofiber electrodes through electrospinning and optimized electrode structure for heavy-metal ion capture.
+- Built Python pipelines with Scikit-learn and TensorFlow to compare supervised-learning models for multi-component heavy-metal recognition.
+- Helped develop a low-cost, non-destructive prototype for meat and soil testing using electrochemical measurements and data-driven analysis.
+
+**Tianxun Daoan: UAV and AI system for rice disease, gas, and pollution monitoring**<br />
+*Challenge Cup project, project lead, 2025.01 - 2025.10*
+
+- Combined visual detection, gas sensing, and route-planning strategies for early warning of rice disease and pollution events.
+- Improved U-Net-style detection workflows for smoke and leakage-point recognition, then fused them with gas concentration measurements.
+- Built a real-time monitoring workflow that streamed aerial inspection imagery and sensor signals back to a ground-control interface.
+
+**Portable intelligent pesticide-residue detection system**<br />
+*University research-interest training project, project lead, 2025.12 - 2026.03*
+
+- Designed a frequency-domain cross-modal fusion module for combining sensing signals with lightweight visual models.
+- Explored MobileViT-style architectures, residual learning, and classical machine-learning models for pesticide-residue recognition.
 
 ### Open-source Developer Tools
 
