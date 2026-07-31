@@ -11,12 +11,12 @@
         <img src="https://img.shields.io/badge/Focus-AI4S%20%7C%20Scientific%20Computing-2F80ED?style=flat" alt="Focus" />
       </p>
       <p><strong>Research interests:</strong> AI4S, AI Scientist agents, ML potentials, materials informatics, DFT/MD, high-entropy materials, microwave absorption, electrochemical sensing, and high-throughput screening.</p>
-      <p><strong>Public writing:</strong> WeChat public account <strong>飞鸟想要飞</strong>, with 500k+ total views.</p>
+      <p><strong>Public writing:</strong> WeChat public account <strong>飞鸟想要飞</strong>, with 1M+ total views.</p>
     </td>
     <td width="250" align="center">
       <img src="./assets/profile.jpg" width="220" alt="Gaoshan Zeng cycling at Zongla Mountain" />
       <br />
-      <sub>Solo cycling at Zongla Mountain, 4,150 m</sub>
+      <sub>Solo, fully loaded ride from Chengdu to Lhasa; photo at Zongla Mountain, 4,150 m</sub>
     </td>
   </tr>
 </table>
@@ -26,6 +26,13 @@
 ## Project Experience
 
 ### AI4S and Scientific Computing
+
+**Million-scale high-fidelity electrolyte MLIP dataset and structure-property analysis**<br />
+*Peking University Shenzhen Graduate School, visiting student / research assistant, 2026.04 - present*
+
+- Proposed an adaptive, full-stack data-construction workflow for electrolyte MLIP datasets: generative-prior composition design, pulsed-dynamics sampling, and multi-fidelity quantum labeling.
+- Combined classifier-guided diffusion with pulsed nanoreactor active learning under extreme temperature / volume perturbations to capture non-equilibrium transition states and high-uncertainty OOD configurations.
+- Developed physics-guided reduction through adaptive fragmentation and ALMO-EDA analysis, then paired million-scale lower-cost force / geometry labels with sparse high-accuracy energy references to reduce computational cost by about 90%.
 
 **DFR-related high-throughput screening research**  
 *Department of Artificial Intelligence, Xiamen University, 2026.02*
@@ -84,19 +91,6 @@
 - Built Python pipelines with Scikit-learn and TensorFlow to compare supervised-learning models for multi-component heavy-metal recognition.
 - Helped develop a low-cost, non-destructive prototype for meat and soil testing using electrochemical measurements and data-driven analysis.
 
-**Tianxun Daoan: UAV and AI system for rice disease, gas, and pollution monitoring**<br />
-*Challenge Cup project, project lead, 2025.01 - 2025.10*
-
-- Combined visual detection, gas sensing, and route-planning strategies for early warning of rice disease and pollution events.
-- Improved U-Net-style detection workflows for smoke and leakage-point recognition, then fused them with gas concentration measurements.
-- Built a real-time monitoring workflow that streamed aerial inspection imagery and sensor signals back to a ground-control interface.
-
-**Portable intelligent pesticide-residue detection system**<br />
-*University research-interest training project, project lead, 2025.12 - 2026.03*
-
-- Designed a frequency-domain cross-modal fusion module for combining sensing signals with lightweight visual models.
-- Explored MobileViT-style architectures, residual learning, and classical machine-learning models for pesticide-residue recognition.
-
 ### Open-source Developer Tools
 
 I also build small, focused tools for AI-native development workflows:
@@ -104,6 +98,7 @@ I also build small, focused tools for AI-native development workflows:
 - [docs-drift-radar](https://github.com/zenggs05/docs-drift-radar): catch stale README snippets, CLI help, and OpenAPI docs in CI.
 - [pr-evidence-pack](https://github.com/zenggs05/pr-evidence-pack): turn a PR diff into a reviewer-ready evidence pack.
 - [browser-skill-forge](https://github.com/zenggs05/browser-skill-forge): record browser workflows and export Playwright / agent skills.
+- [Crysio](https://github.com/zenggs05/Crysio): a local crystal-structure workbench for visualization, editing, and VASP relaxation-path comparison.
 - [Auto_PaperFetcher](https://github.com/zenggs05/Auto_PaperFetcher): automate paper fetching and research-workflow collection.
 - [vscode-remote-ssh-proxy-codex](https://github.com/zenggs05/vscode-remote-ssh-proxy-codex): improve remote SSH / proxy workflows for coding agents.
 
@@ -164,10 +159,12 @@ These simulation and experimental skills let me contribute to many published mat
 
 ## What I Am Building Toward
 
-I want to keep working on systems that make scientific discovery more programmable:
+I want to apply my experience across simulation, experiments, AI4S, and open-source development to more capable research and intelligent systems, especially **AutoResearch / AI for Science, embodied intelligence, and LLM development**.
 
-- AI agents that can read papers, call tools, run simulations, and report evidence.
+- AutoResearch systems that can read papers, call scientific tools, run simulations, and report evidence.
 - ML potential and materials-informatics workflows that scale from small datasets to real discovery loops.
+- Embodied-intelligence systems that connect perception, planning, and action in real environments.
+- LLM applications and agents that are reliable, tool-aware, and useful in complex technical workflows.
 - Open-source developer tools that make research and engineering workflows easier to reproduce.
 
 Outside research, I like long-distance cycling and endurance challenges. I once rode solo for 18 days from Chengdu to Lhasa, covering 2,300+ km across many high-altitude mountain passes. That experience shaped how I think about hard problems: break the route down, keep moving, and do not be afraid of difficult terrain.
