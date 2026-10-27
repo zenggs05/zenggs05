@@ -2,9 +2,10 @@
   <tr>
     <td valign="top">
       <h1>Gaoshan Zeng / 曾高山</h1>
-      <p><strong>AI for Science builder | First-principles simulation | Materials informatics | Open-source developer</strong></p>
-      <p>I am an undergraduate student in <strong>Electronic Science and Technology</strong> at <strong>Sichuan Agricultural University</strong> with a <strong>4.22/5.0 GPA</strong>. My work sits at the intersection of <strong>AI4S, materials science, first-principles simulation, finite-element / electromagnetic simulation, chemical experiments, and AI agents</strong>.</p>
-      <p>I am especially interested in building systems that close the loop between <strong>domain knowledge, simulation, experiment, and autonomous discovery</strong>.</p>
+      <p><strong>AI for Science (AI4S) | Scientific computing | Materials informatics | Open-source developer</strong></p>
+      <p>I am an <strong>incoming graduate student (研0)</strong> at <strong>Peking University (PKU)</strong>, with a research focus on <strong>AI for Science (AI4S)</strong>.</p>
+      <p><strong>Undergraduate background:</strong> Electronic Science &amp; Technology, <strong>SAU</strong>.</p>
+      <p>My work connects <strong>AI4S, materials science, scientific simulation, and AI agents</strong>. I am especially interested in building systems that close the loop between <strong>domain knowledge, simulation, experiment, and autonomous discovery</strong>.</p>
       <p>
         <a href="mailto:zenggaoshan05@gmail.com"><img src="https://img.shields.io/badge/Email-zenggaoshan05%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
         <a href="https://github.com/zenggs05"><img src="https://img.shields.io/badge/GitHub-zenggs05-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -152,7 +153,7 @@ These simulation and experimental skills let me contribute to many published mat
 
 - Meritorious Winner, The Mathematical Contest in Modeling
 - Third Prize, Asia and Pacific Mathematical Contest in Modeling
-- Academic Excellence Scholarship, Sichuan Agricultural University
+- Academic Excellence Scholarship, SAU
 - 20+ awards across national, provincial, and university-level competitions
 
 ---
@@ -169,7 +170,7 @@ I want to apply my experience across simulation, experiments, AI4S, and open-sou
 
 Outside research, I like long-distance cycling and endurance challenges. I once rode solo for 18 days from Chengdu to Lhasa, covering 2,300+ km across many high-altitude mountain passes. That experience shaped how I think about hard problems: break the route down, keep moving, and do not be afraid of difficult terrain.
 
-For the September 2026 domestic postgraduate recommendation process in China, I hope to find a strong research group where I can keep pushing AI4S, scientific simulation, and autonomous materials discovery forward.
+At PKU, I aim to develop AI4S methods that connect scientific simulation with autonomous materials discovery.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zenggs05&show_icons=true&theme=minimal" alt="Gaoshan's GitHub stats" />
