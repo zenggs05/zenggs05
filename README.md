@@ -10,6 +10,7 @@
         <a href="mailto:zenggaoshan05@gmail.com"><img src="https://img.shields.io/badge/Email-zenggaoshan05%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
         <a href="https://github.com/zenggs05"><img src="https://img.shields.io/badge/GitHub-zenggs05-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
         <img src="https://img.shields.io/badge/Focus-AI4S%20%7C%20Scientific%20Computing-2F80ED?style=flat" alt="Focus" />
+        <a href="https://github.com/statsmodels/statsmodels/commits?author=zenggs05"><img src="https://img.shields.io/badge/Contributor-statsmodels-4051B5?style=flat&logo=python&logoColor=white" alt="statsmodels contributor" /></a>
       </p>
       <p><strong>Research interests:</strong> AI4S, AI Scientist agents, ML potentials, materials informatics, DFT/MD, high-entropy materials, microwave absorption, electrochemical sensing, and high-throughput screening.</p>
       <p><strong>Public writing:</strong> WeChat public account <strong>飞鸟想要飞</strong>, with 1M+ total views.</p>
@@ -92,10 +93,19 @@
 - Built Python pipelines with Scikit-learn and TensorFlow to compare supervised-learning models for multi-component heavy-metal recognition.
 - Helped develop a low-cost, non-destructive prototype for meat and soil testing using electrochemical measurements and data-driven analysis.
 
+### Open-source Contributions
+
+**[statsmodels](https://github.com/statsmodels/statsmodels)**: contributor to the Python library for statistical modeling, econometrics, and time-series analysis
+
+- [#10755](https://github.com/statsmodels/statsmodels/pull/10755) `ENH`: added `alternative` (one-/two-sided) and `kernel` options to `diebold_mariano_test` for forecast-accuracy comparison.
+- [#10756](https://github.com/statsmodels/statsmodels/pull/10756) `ENH`: added `clark_west_test` for comparing forecasts from nested models.
+- `TST`: made the pickled `MNLogit` predict tests skip gracefully when `Categorical` objects cannot be unpickled ([commit 40ade46](https://github.com/statsmodels/statsmodels/commit/40ade46)).
+
 ### Open-source Developer Tools
 
 I also build small, focused tools for AI-native development workflows:
 
+- [DFT-Tutorials](https://github.com/zenggs05/DFT-Tutorials): Chinese tutorials, runnable inputs, and helper scripts for VASP, Gaussian, CP2K, and OpenMX (79 chapters, [online docs](https://zenggs05.github.io/DFT-Tutorials/)).
 - [docs-drift-radar](https://github.com/zenggs05/docs-drift-radar): catch stale README snippets, CLI help, and OpenAPI docs in CI.
 - [pr-evidence-pack](https://github.com/zenggs05/pr-evidence-pack): turn a PR diff into a reviewer-ready evidence pack.
 - [browser-skill-forge](https://github.com/zenggs05/browser-skill-forge): record browser workflows and export Playwright / agent skills.
