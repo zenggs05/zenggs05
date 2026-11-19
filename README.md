@@ -95,11 +95,14 @@
 
 ### Open-source Contributions
 
-**[statsmodels](https://github.com/statsmodels/statsmodels)**: contributor to the Python library for statistical modeling, econometrics, and time-series analysis
+I am a contributor to **[statsmodels](https://github.com/statsmodels/statsmodels)**, the widely used Python library for statistical modeling, econometrics, and time-series analysis.
 
-- [#10755](https://github.com/statsmodels/statsmodels/pull/10755) `ENH`: added `alternative` (one-/two-sided) and `kernel` options to `diebold_mariano_test` for forecast-accuracy comparison.
-- [#10756](https://github.com/statsmodels/statsmodels/pull/10756) `ENH`: added `clark_west_test` for comparing forecasts from nested models.
-- `TST`: made the pickled `MNLogit` predict tests skip gracefully when `Categorical` objects cannot be unpickled ([commit 40ade46](https://github.com/statsmodels/statsmodels/commit/40ade46)).
+<a href="https://github.com/statsmodels/statsmodels">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=statsmodels&repo=statsmodels&theme=minimal&show_owner=true" alt="statsmodels/statsmodels" />
+</a>
+
+[![GitHub stars](https://img.shields.io/github/stars/statsmodels/statsmodels?style=for-the-badge&logo=github&label=Stars&color=4051B5)](https://github.com/statsmodels/statsmodels/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/statsmodels/statsmodels?style=for-the-badge&logo=github&label=Forks&color=4051B5)](https://github.com/statsmodels/statsmodels/network/members)
 
 ### Open-source Developer Tools
 
