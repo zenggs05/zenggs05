@@ -95,7 +95,7 @@
 
 ### Open-source Contributions
 
-I am a contributor to **[statsmodels](https://github.com/statsmodels/statsmodels)**, the widely used Python library for statistical modeling, econometrics, and time-series analysis.
+I am a contributor to **[statsmodels](https://github.com/statsmodels/statsmodels)**, the widely used Python library for statistical modeling, econometrics, and time-series analysis. ⭐ **11.7k+ stars** · 🍴 **3.6k+ forks**
 
 <a href="https://github.com/statsmodels/statsmodels">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=statsmodels&repo=statsmodels&theme=minimal&show_owner=true" alt="statsmodels/statsmodels" />
